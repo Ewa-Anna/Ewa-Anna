@@ -5,4 +5,4 @@ I am self-taught and highly motivated individual who is not afraid to take on an
 <br>
 📫 How to reach me? 
 <br>
-Via LinkedIn profile: https://www.linkedin.com/in/ewa-kuca%C5%82a-53790b103/  
+Via LinkedIn profile: https://www.linkedin.com/in/ewa-kucala/
