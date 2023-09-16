@@ -19,7 +19,7 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 - Programming Languages: Python
 - Web Development: Flask
 - Frontend: HTML, CSS
-- Databases: SQlite3
+- Databases: MS SQL, SQlite3
 
 ## ✍️ Main Projects
 - **MedCorp** (Python, Flask, HTML, CSS, JavaScript, SQLite3)
