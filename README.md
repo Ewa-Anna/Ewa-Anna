@@ -13,7 +13,7 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 ## 📖 Currently learning new technologies and concepts
 - Web Development: Django
 - Frontend: JavaScript
-- Databases: PostgreSQL, MongoDB
+- Databases: PostgreSQL, MongoDB, Redis
  
 ## 🔧 Technologies & Tools
 - Programming Languages: Python
@@ -27,7 +27,7 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 [Live Version](https://medcorp.onrender.com/)
 
 [Repository](https://github.com/Ewa-Anna/MedCorp)
-- **Bookstore** (Python, Django, HTML, CSS)
+- **Bookstore** (Python, Django, HTML, CSS, PostgreSQL)
   
 Still in progress
 
