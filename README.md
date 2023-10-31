@@ -24,10 +24,14 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 ## ✍️ Main Projects
 - **MedCorp** (Python, Flask, HTML, CSS, JavaScript, SQLite3)
   
+A website for doctor's appointment registration for fictional medical company.
+  
 [Live Version](https://medcorp.onrender.com/)
 
 [Repository](https://github.com/Ewa-Anna/MedCorp)
 - **Bookstore** (Python, Django, HTML, CSS, PostgreSQL)
+  
+An e-commerce website built for a fictional bookstore.
   
 Still in progress
 
