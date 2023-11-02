@@ -29,7 +29,7 @@ A website for doctor's appointment registration for fictional medical company.
 [Live Version](https://medcorp.onrender.com/)
 
 [Repository](https://github.com/Ewa-Anna/MedCorp)
-- **Bookstore** (Python, Django, HTML, CSS, PostgreSQL)
+- **Bookstore** (Python, Django, HTML, CSS, PostgreSQL, Redis, RabbitMQ, Celery)
   
 An e-commerce website built for a fictional bookstore.
   
