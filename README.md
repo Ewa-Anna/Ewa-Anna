@@ -24,19 +24,15 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 ## ✍️ Main Projects
 :point_right: **MedCorp** (Python, Flask, HTML, CSS, JavaScript, SQLite3)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=medcorp&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
 [Live Version](https://medcorp.onrender.com/)
 
-[Repository](https://github.com/Ewa-Anna/MedCorp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=medcorp&theme=dracula)](https://github.com/Ewa-Anna/MedCorp)
 
 :point_right:**Bookstore** (Python, Django, HTML, CSS, PostgreSQL, Redis, RabbitMQ, Celery)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=bookstore&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 Still in progress
 
-[Repository](https://github.com/Ewa-Anna/Bookstore)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=bookstore&theme=dracula)](https://github.com/Ewa-Anna/Bookstore)
   
 ## 📈 GitHub Stats
 
