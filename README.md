@@ -1,6 +1,6 @@
 # ✨ Hi, I’m @Ewa-Anna ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ewa-Anna&color=brightgreen)
+[![Profile Views](https://komarev.com/ghpvc/?username=Ewa-Anna&color=brightgreen)](https://komarev.com/)
 
 I am self-taught and highly motivated individual who is not afraid to take on any challenge. Capable of own initiative. I have strong analytical mind with problem solving and synthesizing skills. I am very adaptable with a can-do attitude.
 
