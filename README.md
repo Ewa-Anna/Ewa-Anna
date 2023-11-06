@@ -38,5 +38,5 @@ Still in progress
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ewa-Anna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ewa-Anna&layout=compact&theme=dracula&hide=dockerfile,mako,shell)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ewa-Anna&layout=compact&theme=dracula&hide=jupyter-notebook,dockerfile,mako,shell&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
