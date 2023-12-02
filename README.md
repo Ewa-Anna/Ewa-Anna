@@ -33,7 +33,16 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 Still in progress
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=bookstore&theme=dracula)](https://github.com/Ewa-Anna/Bookstore)
-  
+
+## :leftwards_arrow_with_hook: Side Projects
+👉 [Data Analysis](https://github.com/Ewa-Anna/data-analysis/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=data-analysis&theme=dracula)](https://github.com/Ewa-Anna/data-analysis)
+
+👉 [Advent of Code](https://github.com/Ewa-Anna/Advent-of-Code-2023)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=Advent-of-Code-2023&theme=dracula)](https://github.com/Ewa-Anna/Advent-of-Code-2023)
+
 ## 📈 GitHub Stats
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ewa-Anna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
