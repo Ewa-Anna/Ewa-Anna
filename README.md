@@ -22,17 +22,17 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 - Databases: MS SQL, SQlite3, PostgreSQL
 
 ## ✍️ Main Projects
-:point_right: **MedCorp** (Python, Flask, HTML, CSS, JavaScript, SQLite3)
-
-[Live Version](https://medcorp.onrender.com/)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=medcorp&theme=dracula)](https://github.com/Ewa-Anna/MedCorp)
-
 :point_right:**Bookstore** (Python, Django, HTML, CSS, PostgreSQL, Redis, RabbitMQ, Celery)
 
 Still in progress
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=bookstore&theme=dracula)](https://github.com/Ewa-Anna/Bookstore)
+
+:point_right: **MedCorp** (Python, Flask, HTML, CSS, JavaScript, SQLite3)
+
+[Live Version](https://medcorp.onrender.com/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=medcorp&theme=dracula)](https://github.com/Ewa-Anna/MedCorp)
 
 ## :leftwards_arrow_with_hook: Side Projects
 👉 [Data Analysis](https://github.com/Ewa-Anna/data-analysis/)
