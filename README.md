@@ -10,17 +10,6 @@ Via LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/ewa-kucala/)
 
 Feel free to reach out to me if you'd like to collaborate on a project, have questions, or just want to chat. Let's connect and build something awesome together! 😄
 
-## 🔧 Technologies & Tools
-- Programming Languages: Python
-- Web Development: Django, Flask
-- Frontend: HTML, CSS
-- Databases: MS SQL, SQlite3, PostgreSQL
-
-## 📖 Currently learning new technologies and concepts
-- Jupyter Notebook [Data Analysis](https://github.com/Ewa-Anna/data-analysis/)
-- Frontend: JavaScript
-- Databases: MongoDB, Redis
-
 ## ✍️ Main Projects
 :point_right:**Bookstore** (Python, Django, HTML, CSS, PostgreSQL, Redis, RabbitMQ, Celery)
 
@@ -33,6 +22,48 @@ Still in progress
 [Live Version](https://medcorp.onrender.com/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=medcorp&theme=dracula)](https://github.com/Ewa-Anna/MedCorp)
+
+## 🔧 Technologies & Tools
+Programming Languages
+
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://devicon.dev/)
+
+Web Development
+
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />](https://devicon.dev/)
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />](https://devicon.dev/)
+
+Frontend
+
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://devicon.dev/)
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://devicon.dev/)
+
+Databases
+
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />](https://devicon.dev/)
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />](https://devicon.dev/)
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />](https://devicon.dev/)
+
+Tools
+
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://devicon.dev/)
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://devicon.dev/)
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://devicon.dev/)
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />](https://devicon.dev/)
+
+## 📖 Currently learning new technologies and concepts
+Frontend
+  
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://devicon.dev/)
+
+[Data Analysis](https://github.com/Ewa-Anna/data-analysis/)
+
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />](https://devicon.dev/)
+
+Databases
+
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />](https://devicon.dev/)
+[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />](https://devicon.dev/)
 
 ## :leftwards_arrow_with_hook: Side Projects
 👉 [Data Analysis](https://github.com/Ewa-Anna/data-analysis/)
