@@ -1,4 +1,4 @@
-# ✨ Hi, I’m @Ewa-Anna ✨
+# ✨ Hi, I’m Ewa ✨
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Ewa-Anna&color=31d8f3)](https://komarev.com/ghpvc)
 
@@ -10,16 +10,16 @@ Via LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/ewa-kucala/)
 
 Feel free to reach out to me if you'd like to collaborate on a project, have questions, or just want to chat. Let's connect and build something awesome together! 😄
 
-## 📖 Currently learning new technologies and concepts
-- Jupyter Notebook [Data Analysis](https://github.com/Ewa-Anna/data-analysis/)
-- Frontend: JavaScript
-- Databases: MongoDB, Redis
- 
 ## 🔧 Technologies & Tools
 - Programming Languages: Python
 - Web Development: Django, Flask
 - Frontend: HTML, CSS
 - Databases: MS SQL, SQlite3, PostgreSQL
+
+## 📖 Currently learning new technologies and concepts
+- Jupyter Notebook [Data Analysis](https://github.com/Ewa-Anna/data-analysis/)
+- Frontend: JavaScript
+- Databases: MongoDB, Redis
 
 ## ✍️ Main Projects
 :point_right:**Bookstore** (Python, Django, HTML, CSS, PostgreSQL, Redis, RabbitMQ, Celery)
