@@ -64,6 +64,11 @@ Databases
 [<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />](https://devicon.dev/)
 
 ## :leftwards_arrow_with_hook: Side Projects
+
+👉 [Mini-projects in JavaScript](https://ewa-anna.github.io/Collection/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=Collection&theme=dracula)](https://github.com/Ewa-Anna/Collection/)
+
 👉 [Data Analysis](https://github.com/Ewa-Anna/data-analysis/)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=data-analysis&theme=dracula)](https://github.com/Ewa-Anna/data-analysis)
