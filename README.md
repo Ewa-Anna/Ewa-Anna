@@ -69,11 +69,11 @@ Databases
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=Collection&theme=dracula)](https://github.com/Ewa-Anna/Collection/)
 
-👉 [Data Analysis](https://github.com/Ewa-Anna/data-analysis/)
+👉 Data Analysis
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=data-analysis&theme=dracula)](https://github.com/Ewa-Anna/data-analysis)
 
-👉 [Advent of Code](https://github.com/Ewa-Anna/Advent-of-Code-2023)
+👉 Advent of Code
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=Advent-of-Code-2023&theme=dracula)](https://github.com/Ewa-Anna/Advent-of-Code-2023)
 
