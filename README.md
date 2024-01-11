@@ -1,7 +1,5 @@
 # ✨ Hi, I’m Ewa ✨
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Ewa-Anna&color=31d8f3)](https://komarev.com/ghpvc)
-
 I am self-taught and highly motivated individual who is not afraid to take on any challenge. Capable of own initiative. I have strong analytical mind with problem solving and synthesizing skills. I am very adaptable with a can-do attitude.
 
 ## 📫 How to reach me? 
@@ -24,44 +22,49 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 ## 🔧 Technologies & Tools
 Programming Languages
 
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />](https://devicon.dev/)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev) 
 
-Web Development
+Backend
 
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />](https://devicon.dev/)
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />](https://devicon.dev/)
+[![Django](https://skillicons.dev/icons?i=django)](https://skillicons.dev)
+[![Flask](https://skillicons.dev/icons?i=flask)](https://skillicons.dev)
 
 Frontend
 
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />](https://devicon.dev/)
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />](https://devicon.dev/)
+[![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 
 Databases
 
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />](https://devicon.dev/)
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />](https://devicon.dev/)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
+[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 [<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />](https://devicon.dev/)
 
 Tools
 
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />](https://devicon.dev/)
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />](https://devicon.dev/)
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />](https://devicon.dev/)
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />](https://devicon.dev/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![Postman](https://skillicons.dev/icons?i=postman)](https://skillicons.dev)
 
 ## 📖 Currently learning new technologies and concepts
 Frontend
   
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />](https://devicon.dev/)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 [Data Analysis](https://github.com/Ewa-Anna/data-analysis/)
 
 [<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />](https://devicon.dev/)
 
+Tools
+
+[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
+
 Databases
 
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />](https://devicon.dev/)
-[<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />](https://devicon.dev/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ## :leftwards_arrow_with_hook: Side Projects
 
@@ -81,4 +84,4 @@ Databases
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ewa-Anna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ewa-Anna&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Ewa-Anna&theme=github-dark-blue)](https://git.io/streak-stats)
