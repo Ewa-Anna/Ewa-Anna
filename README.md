@@ -21,7 +21,7 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=medcorp&theme=dracula)](https://github.com/Ewa-Anna/MedCorp)
 
 ### Team Projects
-:point_right: **Task Tracker** (Backend: Python, Django - Django Rest Framework, SQLite3)
+:point_right: **Task Tracker** (Backend: Python, Django - Django Rest Framework, PostgreSQL)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=React-Django-Task-Tracker&theme=dracula)](https://github.com/Ewa-Anna/React-Django-Task-Tracker)
 
@@ -42,8 +42,8 @@ Frontend
 
 Databases
 
-[![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![SQLite](https://skillicons.dev/icons?i=sqlite)](https://skillicons.dev)
+[![Postgres](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://skillicons.dev)
 [<img height=5% width=5% src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />](https://devicon.dev/)
 
