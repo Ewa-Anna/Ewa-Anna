@@ -1,4 +1,4 @@
-# ✨ Hi, I’m Ewa ✨
+# ✨ Hi! I’m Ewa ✨
 
 I am self-taught and highly motivated individual who is not afraid to take on any challenge. Capable of own initiative. I have strong analytical mind with problem solving and synthesizing skills. I am very adaptable with a can-do attitude.
 
