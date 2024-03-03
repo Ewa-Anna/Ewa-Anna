@@ -10,6 +10,10 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 
 ## ✍️ Main Projects
 ### Solo projects
+:point_right: **Travel Planner** (Python, Django - Django Rest Framework, PostgreSQL)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=travel-planner&theme=dracula)](https://github.com/Ewa-Anna/travel-planner)
+
 :point_right:**Bookstore** (Python, Django, HTML, CSS, PostgreSQL, Redis, RabbitMQ, Celery)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=bookstore&theme=dracula)](https://github.com/Ewa-Anna/Bookstore)
