@@ -93,6 +93,6 @@ Databases
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ewa-Anna&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=ewa-anna&theme=dark&icon_color=2d50cf)](https://github.com/FajarKim/github-readme-profile)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ewa-Anna&theme=github-dark-blue)](https://git.io/streak-stats)
