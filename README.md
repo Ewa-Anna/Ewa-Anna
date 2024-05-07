@@ -9,15 +9,14 @@ Via LinkedIn profile: [LinkedIn](https://www.linkedin.com/in/ewa-kucala/)
 Feel free to reach out to me if you'd like to collaborate on a project, have questions, or just want to chat. Let's connect and build something awesome together! 😄
 
 ## ✍️ Main Projects
-### Team Projects
-:point_right: **Task Tracker** (Backend: Python, Django - Django Rest Framework, PostgreSQL)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=React-Django-Task-Tracker&theme=dracula)](https://github.com/Ewa-Anna/React-Django-Task-Tracker)
-
-### Solo projects
 :point_right: **Travel Planner** (Backend: Python, Django - Django Rest Framework, PostgreSQL; Frontend: JavaScript, TypeScript, Vue, Vuetify)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=travel-planner&theme=dracula)](https://github.com/Ewa-Anna/travel-planner)
+
+:point_right: **Task Tracker** (Backend: Python, Django - Django Rest Framework, PostgreSQL)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=React-Django-Task-Tracker&theme=dracula)](https://github.com/Ewa-Anna/React-Django-Task-Tracker)
 
 :point_right:**Bookstore** (Python, Django, HTML, CSS, PostgreSQL, Redis, RabbitMQ, Celery)
 
