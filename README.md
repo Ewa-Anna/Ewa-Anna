@@ -16,7 +16,11 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 
 :point_right: **Task Tracker** (Backend: Python, Django - Django Rest Framework, PostgreSQL)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=React-Django-Task-Tracker&theme=dracula)](https://github.com/Ewa-Anna/React-Django-Task-Tracker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=Django-Task-Tracker&theme=dracula)](https://github.com/Ewa-Anna/Django-Task-Tracker)
+
+:point_right: **Learning Platform** (Backend: Python, Django - Django Rest Framework, PostgreSQL)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=backend-learning-platform&theme=dracula)](https://github.com/Ewa-Anna/backend-learning-platform)
 
 :point_right:**Bookstore** (Python, Django, HTML, CSS, PostgreSQL, Redis, RabbitMQ, Celery)
 
