@@ -14,7 +14,7 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=travel-planner&theme=dracula)](https://github.com/Ewa-Anna/travel-planner)
 
-:point_right: **Task Tracker** (Backend: Python, Django - Django Rest Framework, PostgreSQL)
+:point_right: **Task Tracker** (Backend: Python, Django - Django Rest Framework, SQLite3)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=Django-Task-Tracker&theme=dracula)](https://github.com/Ewa-Anna/Django-Task-Tracker)
 
