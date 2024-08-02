@@ -18,9 +18,9 @@ Feel free to reach out to me if you'd like to collaborate on a project, have que
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=Django-Task-Tracker&theme=dracula)](https://github.com/Ewa-Anna/Django-Task-Tracker)
 
-:point_right: **Learning Platform** (Backend: Python, Django - Django Rest Framework, PostgreSQL)
+:point_right:**Stock Price Prediction** (Python, Django, HTML, CSS)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=backend-learning-platform&theme=dracula)](https://github.com/Ewa-Anna/backend-learning-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=stock-price-prediction&theme=dracula)](https://github.com/Ewa-Anna/stock-price-prediction)
 
 :point_right:**Bookstore** (Python, Django, HTML, CSS, PostgreSQL, Redis, RabbitMQ, Celery)
 
@@ -81,6 +81,10 @@ Databases
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://skillicons.dev)
 
 ## :leftwards_arrow_with_hook: Side Projects
+
+:point_right: **Learning Platform** (Backend: Python, Django - Django Rest Framework, PostgreSQL)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ewa-anna&repo=backend-learning-platform&theme=dracula)](https://github.com/Ewa-Anna/backend-learning-platform)
 
 👉 [Mini-projects in JavaScript](https://ewa-anna.github.io/Collection/)
 
